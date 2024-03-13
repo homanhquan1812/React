@@ -1,0 +1,12 @@
+1. Install NodeJS.
+
+2. Open Terminal in VSCode and type "npm create vite@latest" then do setup.
+We will use "MyFirstReactWebsite" as project name.
+
+3. Run:
+    cd MyFirstReactWebsite
+    npm Install
+    npm run dev
+
+You will see the link for your website. In my case, it's "http://localhost:5173/".
+Congratulations, this is your first ReactJS website.
