@@ -4,6 +4,3 @@ This respiratory includes ReactJS course made by <b>Bro Code<b>.
 
 # Progress:
 > Ongoing.
-
-# Contacts:
-> homanhquan1812@gmail.com
